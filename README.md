@@ -10,7 +10,7 @@ building production-grade APIs, microservices, and CI/CD pipelines.
 
 ## What I Do
 - Design and develop backend services using **Python and .NET Core**
-- Build REST APIs using **Python (Flask, Faast)** for synchronous and event-driven workflows
+- Build REST APIs using **Python (Flask, Fast)** for synchronous and event-driven workflows
 - Design microservices-based systems with clear API boundaries
 - Apply clean architecture and low-level design principles
 - Improve deployment reliability using Docker and CI/CD pipelines
@@ -26,8 +26,8 @@ building production-grade APIs, microservices, and CI/CD pipelines.
 - SQL
 
 **Backend & Frameworks**
-- Flask
-- Faast
+- FlaskApi
+- FastApi
 - .NET Core
 - ASP.NET MVC
 - REST APIs
