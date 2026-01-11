@@ -106,9 +106,9 @@ faster onboarding for new contributors.
 ---
 
 ## Achievements
-- **Kudos Excellence Award** – Advanced Python/ML problem-solving
-- **Bravo Award** – Demonstrated ownership beyond formal responsibilities
-- **Hi5 Award** – High-impact contributions during critical initiatives
+- **Kudos Excellence Award** – Advanced Python/ML skills and problem-solving
+- **Bravo Award** – Key contributor beyond formal responsibilities
+-  **Hi5 Award** – Exceptional dedication during critical initiatives
 
 ---
 
