@@ -18,10 +18,27 @@ microservices, REST APIs, and CI/CD pipelines for production environments.
 ---
 
 ## Core Skills
-- **Backend:** Python, C#, SQL, .NET Core, ASP.NET MVC
-- **Architecture:** Microservices, REST APIs, Clean Architecture
-- **DevOps:** Docker, CI/CD Pipelines, GitHub
-- **Practices:** LLD, Agile, Technical Documentation
+
+**Languages**
+- Python
+- C#
+- SQL
+
+**Frameworks & Platforms**
+- .NET Core
+- ASP.NET MVC
+- REST APIs
+
+**DevOps & Tooling**
+- Docker
+- CI/CD Pipelines
+- Git & GitHub
+
+**Development Practices**
+- Clean Architecture
+- Low-Level Design (LLD)
+- Agile Development
+- Technical Documentation
 
 ---
 
