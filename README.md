@@ -1,4 +1,4 @@
-# Hi 👋, I'm Soja Anil
+#  Soja Anil
 
 Senior Software Engineer | Backend Developer | Python & .NET Enthusiast
 
@@ -8,16 +8,16 @@ and developer productivity.
 
 ---
 
-## 🚀 About Me
-- 💼 Senior Software Engineer with experience in **Python and .NET backend systems**
-- 🔧 Strong background in **microservices, REST APIs, and system architecture**
-- 🐳 Experienced with **Docker and CI/CD pipelines**
-- 🤝 Enjoy collaborating with cross-functional teams
-- 📚 Passionate about clean code, documentation, and knowledge sharing
+## About Me
+- Senior Software Engineer with experience in **Python and .NET backend systems**
+- Strong background in **microservices, REST APIs, and system architecture**
+- Experienced with **Docker and CI/CD pipelines**
+- Enjoy collaborating with cross-functional teams
+- Passionate about clean code, documentation, and knowledge sharing
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**
 - Python
@@ -43,25 +43,25 @@ and developer productivity.
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 *(More projects coming soon)*
 
 - 🔗 **Portfolio Website**  
   Personal portfolio hosted using GitHub Pages  
-  👉 https://soja-anil.github.io/portfolio
+  https://soja-anil.github.io/portfolio
 
 - 🔗 **Backend Services (Python / .NET)**  
   Scalable backend services with REST APIs, Docker, and CI/CD practices
 
 ---
 
-## 🏆 Achievements
-- 🏅 **Kudos Excellence Award** – Advanced Python/ML skills & problem-solving
-- 🏅 **Bravo Award** – Key contributor beyond formal responsibilities
-- 🏅 **Hi5 Award** – Exceptional dedication during critical initiatives
+## Achievements
+- **Kudos Excellence Award** – Advanced Python/ML skills & problem-solving
+- **Bravo Award** – Key contributor beyond formal responsibilities
+- **Hi5 Award** – Exceptional dedication during critical initiatives
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/soja-anil
 - 📧 Email: sojaanil233@gmail.com
